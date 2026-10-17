@@ -1,0 +1,22 @@
+{
+  "assignment": "Aleph Subject 5",
+  "baseline": {
+    "filename": "Aleph_subject_4_vercel.zip",
+    "sha256": "f469f8a02d9742c1035dfaecac28a581af86d25fa5f20431969817b5794db69d",
+    "version_id": "8b53f46a8d1e5f9d74052f6d2c5dfb74599adfa1"
+  },
+  "result": {
+    "version_id": "2cd4a2651b382db26d14fb46df01bd3ea48235ed",
+    "zip_sha256": "e715e39cd9d35e4b9b575bfd0a05b1ecb67e085e1cfbe08b122aef0a262497aa",
+    "ai_a_url": "https://ai-handoff-continuity-report.anseokju02.chatgpt.site/downloads/Aleph_subject_5_AI_A_source.zip",
+    "ai_b_url": "https://ai-handoff-continuity-report.anseokju02.chatgpt.site/downloads/Aleph_subject_5_AI_B_source.zip",
+    "byte_identical": true
+  },
+  "fixed_tests": {
+    "count": 10,
+    "ai_a_pass": 10,
+    "ai_b_pass": 10,
+    "changed_or_deleted": 0
+  },
+  "secrets_in_public_output": 0
+}
